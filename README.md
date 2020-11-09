@@ -33,6 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## YouTube Video Tutorial
 
-![Image description](https://i.imgur.com/9PhXtCd.jpg)
+![Image description](https://user-images.githubusercontent.com/5855115/98571133-20815c00-22ac-11eb-8a92-c026be9ba4a7.png)
 
 Link: https://youtu.be/9c8P6VuymdE
